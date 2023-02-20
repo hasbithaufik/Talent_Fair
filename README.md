@@ -1,6 +1,6 @@
 # Talent_Fair
 
-Name: Hasbi Thaufik Oktodila
+Name: Hasbi Thaufik Oktodila <br>
 Linkedin: https://www.linkedin.com/in/hasbithaufik/ <br>
 Gmail: hasbithaufik@gmail.com
 
